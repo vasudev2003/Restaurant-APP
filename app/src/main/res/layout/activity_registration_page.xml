@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistrationPage"
+    android:background="#EDE7F6"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VS Restaurants"
+        android:textSize="30dp"
+        android:textColor="#5E35B1"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name (Min. 3 characters)"
+        android:inputType="textPersonName"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="15dp"
+        />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email Address"
+        android:inputType="textEmailAddress"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <EditText
+        android:id="@+id/mobile_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mobile Number(10 digits)"
+        android:inputType="number"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <EditText
+        android:id="@+id/delivery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Delivery Address"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password(Min. 4 characters)"
+        android:inputType="textPassword"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <EditText
+        android:id="@+id/conf_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:layout_marginTop="5dp"
+        />
+
+   <Button
+       android:id="@+id/reg_btn"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Register"
+       android:layout_marginLeft="15dp"
+       android:layout_marginRight="15dp"
+       android:padding="12dp"
+       android:textColor="#5E35B1"
+       android:layout_marginTop="5dp"
+       />
+
+</LinearLayout>

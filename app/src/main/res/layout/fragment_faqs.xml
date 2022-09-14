@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".navigations.Faqs"
+    android:orientation="vertical"
+>
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical"
+     >
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:padding="10dp"
+         >
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Question"
+             android:layout_marginBottom="10dp"
+             />
+         <TextView
+             android:padding="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This will be an option provided in the navigation drawer to log out of the application. This will
+be a simple log out which redirects"
+             />
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="2dp"
+             android:layout_marginTop="10dp"
+             android:background="#B6B5B5"/>
+
+     </LinearLayout>
+
+ </LinearLayout>
+
+
+
+</ScrollView>

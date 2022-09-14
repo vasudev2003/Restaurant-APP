@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.restaurants.navigations.Home"
+        android:label="All Restaurants"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.restaurants.navigations.MyProfile"
+        android:label="Profile"
+        tools:layout="@layout/fragment_my_profile">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_favorite"
+        android:name="com.example.restaurants.navigations.Favorites"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorites"
+        />
+    <fragment
+        android:id="@+id/nav_order_history"
+        android:name="com.example.restaurants.navigations.OrderHistory"
+        android:label="Order History"
+        tools:layout="@layout/fragment_order_history"
+        />
+    <fragment
+        android:id="@+id/nav_faqs"
+        android:name="com.example.restaurants.navigations.Faqs"
+        android:label="FAQs"
+        tools:layout="@layout/fragment_faqs"
+        />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.restaurants.navigations.Logout"
+        android:label="Logout"
+        tools:layout="@layout/fragment_logout">
+    </fragment>
+
+</navigation>
